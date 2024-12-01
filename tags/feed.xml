@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:1313/xml/base.min.xml" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 23 Nov 2024 22:48:42 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My first post</title>
+      <link>http://localhost:1313/posts/first/</link>
+      <pubDate>Sat, 23 Nov 2024 22:48:42 +0800</pubDate>
+      <guid>http://localhost:1313/posts/first/</guid>
+      <description>&lt;p&gt;My first post.&#xA;Test of code block&lt;/p&gt;&#xA;&#xA;  &#xA;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-cpp&#34; data-lang=&#34;cpp&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;#include&amp;#34;iostrem&amp;#34;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;std&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;::&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;cout&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;hello world!&amp;#34;&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;std&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;::&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;endl&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&#xA;&lt;p&gt;Test of math equation&lt;/p&gt;&#xA;&#xA;&lt;span class=&#34;katex&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34; display=&#34;block&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;e&lt;/mi&gt;&lt;mrow&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;π&lt;/mi&gt;&lt;/mrow&gt;&lt;/msup&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;&#xA;e^{i\pi}+1=0&#xA;&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&#xA;&lt;p&gt;Image&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://th.bing.com/th/id/OIP.0lIECNc4b_hVXu4H8xQBrwHaHa?rs=1&amp;amp;pid=ImgDetMain&#34; alt=&#34;this is an image&#34;&gt; \&lt;/p&gt;&#xA;&lt;p&gt;日本語（にほんご、にっぽんご[注釈 3]）は、日本国内や、かつての日本領だった国、そして国外移民や移住者を含む日本人同士の間で使用されている言語。日本は法令によって公用語を規定していないが、法令その他の公用文は全て日本語で記述され、各種法令[注釈 4]において日本語を用いることが規定され、学校教育においては「国語」の教科として学習を行うなど、事実上日本国内において唯一の公用語となっている。&lt;/p&gt;&#xA;&lt;p&gt;La France (Écouter), en forme longue République française (Écouter), est un État souverain transcontinental dont le territoire métropolitain s&amp;rsquo;étend en Europe de l&amp;rsquo;Ouest et dont le territoire ultramarin s&amp;rsquo;étend dans les océans Indien, Atlantique et Pacifique, ainsi qu&amp;rsquo;en Antarctique8 et en Amérique du Sud. Le pays a des frontières terrestres avec la Belgique, le Luxembourg, l&amp;rsquo;Allemagne, la Suisse, l&amp;rsquo;Italie, l&amp;rsquo;Espagne, Monaco et l&amp;rsquo;Andorre en Europe, auxquelles s&amp;rsquo;ajoutent les frontières terrestres avec le Brésil, le Suriname et les Pays-Bas aux Amériques. La France dispose d&amp;rsquo;importantes façades maritimes sur l&amp;rsquo;Atlantique, la Méditerranée, le Pacifique et l&amp;rsquo;océan Indien, lui permettant de bénéficier de la deuxième zone économique exclusive la plus vaste au monde.&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>
